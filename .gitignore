@@ -9,4 +9,5 @@ secrets-policy.json
 /src/nautilus-server/target
 
 /out
-/target
+/target*.pem
+*.key
